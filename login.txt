@@ -1,5 +1,5 @@
 This is a login-feature!
 
-I added some code on master branch,but not add !
+I added some code on master branch,but not add again !
 
-I fixed some code on login-feature branch!
+I fixed some code on login-feature branch, again !
